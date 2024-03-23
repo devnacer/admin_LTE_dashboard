@@ -14,3 +14,11 @@
 @section('breadcrumb_2')
     Section
 @endsection
+
+@section('content')
+    
+@endsection
+
+@section('scripts')
+    
+@endsection

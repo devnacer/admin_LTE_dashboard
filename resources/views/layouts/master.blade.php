@@ -39,9 +39,9 @@
                 </div><!-- /.container-fluid -->
             </div>
             <!-- /.content-header -->
-            @yield('content')
-
+            
             <!-- Main content -->
+            @yield('content')
             <section class="content">
                 <div class="container-fluid">
                     <!-- Small boxes (Stat box) -->
